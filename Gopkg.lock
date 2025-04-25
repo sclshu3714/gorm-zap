@@ -128,10 +128,10 @@
   revision = "429f518978ab01db8bb6f44b66785088e7fba58b"
 
 [[projects]]
-  name = "gopkg.in/ory-am/dockertest.v3"
+  name = "github.com/ory/dockertest/v3"
   packages = ["."]
   revision = "a7951f7a8442f0e70d36e499ed4d744f00af2963"
-  version = "v3.0.9"
+  version = "v3.12.0"
 
 [solve-meta]
   analyzer-name = "dep"

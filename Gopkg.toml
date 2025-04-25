@@ -34,5 +34,5 @@
   name = "github.com/erikstmartin/go-testdb"
 
 [[constraint]]
-  name = "gopkg.in/ory-am/dockertest.v3"
-  version = "3.0.9"
+  name = "github.com/ory/dockertest/v3"
+  version = "3.12.0"
